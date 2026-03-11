@@ -7,7 +7,7 @@ import json
 import ssl
 import shutil
 
-API_URL = "http://api.github.com/repos/aarron-lee/DeckyPlumber/releases/latest"
+API_URL = "http://api.github.com/repos/honjow/DeckyPlumber/releases/latest"
 
 def get_env():
     env = os.environ.copy()
